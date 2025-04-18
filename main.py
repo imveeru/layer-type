@@ -1,7 +1,7 @@
 import os
 import json
 
-BASE_DIR = "E:/Design Generation/Final Output/Final JSON/JSON Output"
+BASE_DIR = "/layer-type/JSON Output"
 
 ####################### RENAME FILES #######################
 
